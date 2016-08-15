@@ -51,3 +51,4 @@ import:
   subpackages:
   - gocov
 - package: github.com/wadey/gocovmerge
+- package: github.com/lib/pq
